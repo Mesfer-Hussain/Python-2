@@ -1,6 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# In[5]:
+
+
+print ('Mesfer Hussain')
+print ('444104495')
+
+
 # In[7]:
 
 
@@ -148,10 +155,11 @@ titanic = pd.read_csv('short_titanic.csv')
 titanic.head()
 
 
-# In[ ]:
+# In[6]:
 
 
-
+print ('Mesfer Hussain')
+print ('444104495')
 
 
 # In[ ]:
